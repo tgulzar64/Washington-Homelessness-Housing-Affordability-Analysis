@@ -16,7 +16,7 @@ Includes ZHVI (Zillow Home Value Index), renter income, homeowner income, and af
 ## Analysis Techniques 🔍
 1. Data Wrangling
 
-Filtered datasets for Washington, D.C.
+_ Filtered datasets for Washington, D.C.
 
 Transposed time series data and converted date columns
 
